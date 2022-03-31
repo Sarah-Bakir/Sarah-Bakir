@@ -1,4 +1,4 @@
-# Hi there, I'm **Sarah**
+# Hi there, I'm **Sarah** 👋
 
 
 ![Sarah-Bakir GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah-Bakir&show_icons=true&theme=vue-dark&count_private=true)
